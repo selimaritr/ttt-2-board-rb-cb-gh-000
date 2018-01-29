@@ -1,59 +1,60 @@
 # Define the variable board below.
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 
-row[0]
+board[0]
 
 
-row[1]
+board[1]
 
 
-row[2]
+board[2]
 
 
-row[3]
+board[3]
 
 
-row[4]
+board[4]
 
 
-row[5]
+board[5]
 
 
-row[6]
+board[6]
 
 
-row[7]
+board[7]
 
 
-row[8]
+board[8]
 
 
-row[9]
+board[9]
 
 
-row[1] = "X"
+board[1] = "X"
 
 
-row[2] = "O"
+board[2] = "O"
 
 
-row[3] = "X"
+board[3] = "X"
 
 
-row[4] = "O"
+board[4] = "O"
 
 
-row[5] = "X"
+board[5] = "X"
 
-row[6] = "O"
-
-
-row[7] = "X"
+board[6] = "O"
 
 
-row[8] = "O"
+board[7] = "X"
 
 
-row[9] = "X"
-row
+board[8] = "O"
+
+
+board[9] = "X"
+
+end
